@@ -82,6 +82,19 @@ This project uses JWT-based authentication.
 ## 🧪 Testing APIs
 
 Use Swagger:
+## 📘 Swagger API Documentation
+
+Swagger is used to document and test all REST APIs.
+
+### Features:
+- View all API endpoints
+- Test APIs directly from browser
+- Supports JWT Authentication
+- Shows request/response models
+
+### Access URL:
+
+https://localhost:7173/swagger
 
 
 
