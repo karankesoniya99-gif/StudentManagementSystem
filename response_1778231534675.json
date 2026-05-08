@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Soniya",
+    "email": "soniya@gmail.com",
+    "age": 28,
+    "course": "DotNet",
+    "createdDate": "2026-05-08T10:18:49.0654517"
+  },
+  {
+    "id": 4,
+    "name": "Sagar Patil",
+    "email": "sagar@gmail.com",
+    "age": 30,
+    "course": "SQL",
+    "createdDate": "2026-05-08T10:46:13.872357"
+  },
+  {
+    "id": 5,
+    "name": "siya",
+    "email": "siya@gmail.com",
+    "age": 18,
+    "course": "C",
+    "createdDate": "2026-05-08T12:57:35.245174"
+  }
+]
